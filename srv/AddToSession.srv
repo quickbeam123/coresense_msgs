@@ -1,4 +1,4 @@
 string session_id
-string formula
+string tptp
 ---
 bool success
